@@ -1,0 +1,21 @@
+file	computing_time
+ covidppi_n90_train_kf_1.edgelist	0.014156103134155273
+ covidppi_n81_train_kf_1.edgelist	0.026792287826538086
+ covidppi_n90_train_kf_2.edgelist	0.014167070388793945
+ covidppi_n81_train_kf_2.edgelist	0.028386592864990234
+ covidppi_n90_train_kf_3.edgelist	0.016130685806274414
+ covidppi_n81_train_kf_3.edgelist	0.030058860778808594
+ covidppi_n90_train_kf_4.edgelist	0.05527305603027344
+ covidppi_n81_train_kf_4.edgelist	0.07369875907897949
+ covidppi_n90_train_kf_5.edgelist	0.014113426208496094
+ covidppi_n81_train_kf_5.edgelist	0.028463363647460938
+ covidppi_n90_train_kf_6.edgelist	0.013418197631835938
+ covidppi_n81_train_kf_6.edgelist	0.026416778564453125
+ covidppi_n90_train_kf_7.edgelist	0.015326499938964844
+ covidppi_n81_train_kf_7.edgelist	0.027312278747558594
+ covidppi_n90_train_kf_8.edgelist	0.013283967971801758
+ covidppi_n81_train_kf_8.edgelist	0.0251162052154541
+ covidppi_n90_train_kf_9.edgelist	0.013298749923706055
+ covidppi_n81_train_kf_9.edgelist	0.026324748992919922
+ covidppi_n90_train_kf_10.edgelist	0.013042449951171875
+ covidppi_n81_train_kf_10.edgelist	0.025737524032592773
